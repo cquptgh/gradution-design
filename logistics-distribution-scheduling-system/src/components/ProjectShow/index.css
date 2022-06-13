@@ -1,0 +1,26 @@
+.site-layout-background {
+  padding: 24px 24px 0;
+}
+
+.edit-btn,.edit-btn:focus {
+  background-color: #f6ffed;
+  color: #389e0d;
+}
+
+.edit-btn:hover {
+  border-color: #d9d9d9;
+  color: #389e0d;
+}
+
+.edit-btn:focus {
+  border-color: #d9d9d9;
+}
+
+.delete-btn {
+  background-color: #fff1f0;
+  color: #cf1322;
+}
+
+.vehicle_number {
+  margin-left: 10px;
+}

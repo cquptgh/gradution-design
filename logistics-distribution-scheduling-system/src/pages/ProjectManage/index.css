@@ -1,0 +1,45 @@
+.header-layout {
+  width: 100%;
+  color: #fff;
+}
+
+.logo {
+  float: left;
+  width: 300px;
+  height: 32px;
+  margin: 16px 24px 16px 24px;
+  background: rgba(255, 255, 255, 0.2);
+  text-align: center;
+  line-height: 32px;
+  font-size: 20px;
+}
+
+.time-info {
+  float: right;
+  margin-right: 20px;
+}
+
+.avatar {
+  float: right; 
+  cursor: pointer;
+}
+
+.ant-popover-inner-content {
+  border-radius: 6px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.site-layout {
+  padding: 50px 50px 0;
+}
+
+.site-btn {
+  margin: 0 0 26px 0;
+}
+
+
+
+

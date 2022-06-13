@@ -1,0 +1,3 @@
+PROBLEM_FILE=problem.txt
+RUNS=1
+OUTPUT_TOUR_FILE=result.txt

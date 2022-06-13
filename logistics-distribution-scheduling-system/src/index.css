@@ -1,0 +1,4 @@
+.ant-table-cell,
+.ant-table-thead > tr > th {
+  text-align: center;
+}

@@ -1,0 +1,33 @@
+NAME : problem.txt.64.tour
+COMMENT : Length = 64
+COMMENT : Found by LKH [Keld Helsgaun] Mon Jun 13 16:57:45 2022
+TYPE : TOUR
+DIMENSION : 25
+TOUR_SECTION
+1
+12
+7
+20
+14
+11
+13
+8
+6
+22
+17
+18
+21
+4
+23
+9
+10
+16
+2
+25
+5
+3
+24
+19
+15
+-1
+EOF

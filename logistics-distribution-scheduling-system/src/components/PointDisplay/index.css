@@ -1,0 +1,8 @@
+.point-display-table {
+  position: absolute;
+  left: 10px;
+  top: 50px;
+  width: 600px;
+  opacity: 0.9;
+}
+
